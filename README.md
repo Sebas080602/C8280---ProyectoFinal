@@ -16,3 +16,13 @@ Conjunto de datos de dígitos escritos a mano de Scikit-learn: https://scikit-le
 Ensemble Methods en Scikit-learn: https://scikit-learn.org/stable/modules/ensemble.html 
 
 Logistic Regression en Scikit-learn: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.ht ml
+
+Random Forests en Scikit-learn:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier. html
+
+AdaBoost en Scikit-learn:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html XGBoost: Documentación oficial de XGBoost (https://xgboost.readthedocs.io/)
+
+XGBoost: Documentación oficial de XGBoost https://xgboost.readthedocs.io/
