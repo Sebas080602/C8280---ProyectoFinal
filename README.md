@@ -12,3 +12,7 @@ Matplotlib: https://matplotlib.org/
 Conjunto de datos MNIST: http://yann.lecun.com/exdb/mnist/
 
 Conjunto de datos de dígitos escritos a mano de Scikit-learn: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+
+Ensemble Methods en Scikit-learn: https://scikit-learn.org/stable/modules/ensemble.html 
+
+Logistic Regression en Scikit-learn: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.ht ml
