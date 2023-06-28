@@ -17,12 +17,15 @@ Ensemble Methods en Scikit-learn: https://scikit-learn.org/stable/modules/ensemb
 
 Logistic Regression en Scikit-learn: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.ht ml
 
-Random Forests en Scikit-learn:
+Random Forests en Scikit-learn: 
 
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier. html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-AdaBoost en Scikit-learn:
+AdaBoost en Scikit-learn: 
 
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html XGBoost: Documentación oficial de XGBoost (https://xgboost.readthedocs.io/)
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
 
-XGBoost: Documentación oficial de XGBoost https://xgboost.readthedocs.io/
+XGBoost: Documentación oficial de XGBoost 
+
+https://xgboost.readthedocs.io/
+
